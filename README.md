@@ -20,3 +20,8 @@ Lists
    - second one
 
 Giant science tower with `shifting` stairs and battle with time-traveling robot version of self from future on the roof.
+
+```js
+let x = 5;
+console.log(x);
+```
