@@ -14,6 +14,12 @@ This is a footnote[^1]. Another footnote[^2].
    - [ ] Two
 - [ ] Second
 
+<details>
+   <summary>collapsed</summary>
+   # Header
+   This is the copy for the collapsed text.
+</details>
+
 [^1]: My reference
 [^2]: Another footnote
 
