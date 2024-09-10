@@ -9,6 +9,11 @@ This is a footnote[^1]. Another footnote[^2].
 | Three | Four   | $120.00|
 | Five  | Six    | $.99   |
 
+- [x] First
+   - [x] One
+   - [ ] Two
+- [ ] Second
+
 [^1]: My reference
 [^2]: Another footnote
 
