@@ -14,7 +14,16 @@ graph TD;
 > Important
 
 > [!WARNING]
-> Warning
+> Warning: Disallowed Raw HTML:
+> title,
+> textarea,
+> style,
+> xmp,
+> iframe,
+> noembed,
+> noframes,
+> script,
+> plaintext
 
 This is a footnote[^1]. Another footnote[^2].
 
