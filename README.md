@@ -1,5 +1,11 @@
 # Pacejka-csc256-repo
 ## Learning GitHub and Markdown
+
+This is a footnote[^1]. Another footnote[^2].
+
+[^1]: My reference
+[^2]: Another footnote
+
 normal text 
 *** 
 **bold** 
