@@ -1,6 +1,21 @@
 # Pacejka-csc256-repo
 ## Learning GitHub and Markdown
 
+```mermaid
+graph TD;
+   A-->B;
+   A-->C;
+```
+
+> [!NOTE]
+> A note
+
+> [!IMPORTANT]
+> Important
+
+> [!WARNING]
+> Warning
+
 This is a footnote[^1]. Another footnote[^2].
 
 | Left  | Center | Right  |
@@ -19,6 +34,8 @@ This is a footnote[^1]. Another footnote[^2].
    # Header
    This is the copy for the collapsed text.
 </details>
+
+🤯
 
 [^1]: My reference
 [^2]: Another footnote
